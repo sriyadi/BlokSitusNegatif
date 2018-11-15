@@ -1,2 +1,2 @@
-# blokjudi
-Blok Situs Judi Buat Pi Hole
+# bloksitusnegatif
+Blok Situs Negatif Buat Pi Hole
