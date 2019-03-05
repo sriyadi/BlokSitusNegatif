@@ -1,3 +1,5 @@
+0.0.0.0	3g.qq.com
+0.0.0.0	a01.uadexchange.com
 0.0.0.0	abrts.pro
 0.0.0.0	aclickads.com
 0.0.0.0	ada.avocarrot.com
@@ -17,6 +19,7 @@
 0.0.0.0	adpop-1.com
 0.0.0.0	adpstatic.com
 0.0.0.0	adreviewcamp.com
+0.0.0.0	ads8.kompasads.com
 0.0.0.0	ads.admarvel.com
 0.0.0.0	ads.avad.net
 0.0.0.0	ads.bca.co.id
@@ -49,6 +52,7 @@
 0.0.0.0	analisis.io
 0.0.0.0	analytics.picsart.com
 0.0.0.0	anekaiklan.com
+0.0.0.0	api.ipify.org
 0.0.0.0	apmmedia.net
 0.0.0.0	app.adjust.com
 0.0.0.0	app-measurement.com
@@ -68,6 +72,7 @@
 0.0.0.0	bunchofwinners.win
 0.0.0.0	cas.criteo.com
 0.0.0.0	cd8iw9mh.cricket
+0.0.0.0	cdn.adsafeprotected.com
 0.0.0.0	cdnasiaclub.com
 0.0.0.0	cdn.onesignal.com
 0.0.0.0	cdn.run-syndicate.com
@@ -81,11 +86,13 @@
 0.0.0.0	cmdts.ksmobile.com
 0.0.0.0	cm.marketgid.com
 0.0.0.0	codeonclick.com
+0.0.0.0	connect.facebook.net
 0.0.0.0	cpaclickoffers.com
 0.0.0.0	cytochemistryrecitativewrasse.com
 0.0.0.0	d15cjcet1djbmv.cloudfront.net
 0.0.0.0	d28k9nkt2spnp.cloudfront.net
 0.0.0.0	d2jn12r3o7an7z.cloudfront.net
+0.0.0.0	d31qbv1cthcecs.cloudfront.net
 0.0.0.0	d6swopgiplmy0.cloudfront.net
 0.0.0.0	dafa.io
 0.0.0.0	dashbo15myapp.com
@@ -120,6 +127,8 @@
 0.0.0.0	googleadservices.com
 0.0.0.0	googleads.g.doubleclick.net
 0.0.0.0	google-analytics.com
+0.0.0.0	googletagmanager.com
+0.0.0.0	googletagservices.com
 0.0.0.0	graph.accountkit.com
 0.0.0.0	graph.instagram.com
 0.0.0.0	greatwork.info
@@ -160,6 +169,7 @@
 0.0.0.0	iklanumum.com
 0.0.0.0	ikoh6ie.top
 0.0.0.0	ilxhsgd.com
+0.0.0.0	imasdk.googleapis.com
 0.0.0.0	imaxbet.com
 0.0.0.0	imgg-cdn.adskeeper.co.uk
 0.0.0.0	indobanner.com
@@ -246,6 +256,7 @@
 0.0.0.0	replase.gq
 0.0.0.0	replase.ml
 0.0.0.0	rkbjbtxhdi.bid
+0.0.0.0	runative.com
 0.0.0.0	runreproducerow.com
 0.0.0.0	run-syndicate.com
 0.0.0.0	s0.2mdn.net
@@ -269,21 +280,27 @@
 0.0.0.0	ssl.google-analytics.com
 0.0.0.0	sspintrafmsmt.com
 0.0.0.0	ssp.zryydi.com
+0.0.0.0	static.criteo.net
 0.0.0.0	static.doubleclick.net
 0.0.0.0	stats.appsflyer.com
 0.0.0.0	sumberiklan.com
 0.0.0.0	suryaiklan.com
 0.0.0.0	sworatio.co
+0.0.0.0	sync.aralego.com
+0.0.0.0	sync.search.spotxchange.com
 0.0.0.0	s.youtube.com
 0.0.0.0	taboola.com
 0.0.0.0	t.appsflyer.com
 0.0.0.0	teliad.com
+0.0.0.0	tgw-pmir.3g.qq.com
 0.0.0.0	theclickers.net
 0.0.0.0	tinggalklik.com
 0.0.0.0	topklik.com
 0.0.0.0	topsurfer.com
+0.0.0.0	torimochi.line-apps.com
 0.0.0.0	traacker2.info
 0.0.0.0	track.aptitudemedia.co
+0.0.0.0	track.atom-data.io
 0.0.0.0	track.spzan.com
 0.0.0.0	tradeadexchange.com
 0.0.0.0	translationbuddy.com
@@ -295,6 +312,7 @@
 0.0.0.0	twap.eu
 0.0.0.0	uoarbhxfyygn.com
 0.0.0.0	u-on.eu
+0.0.0.0	usa.ime.cootek.com
 0.0.0.0	useads.com
 0.0.0.0	vdtrack.com
 0.0.0.0	video-ad-stats.googlesyndication.com
@@ -311,6 +329,7 @@
 0.0.0.0	www.bisa88.com
 0.0.0.0	www.googleadservices.com
 0.0.0.0	www.google-analytics.com
+0.0.0.0	www.googletagservices.com
 0.0.0.0	www.gotrack1.es
 0.0.0.0	www.headwaydigital.com
 0.0.0.0	www.judibolanet.com
